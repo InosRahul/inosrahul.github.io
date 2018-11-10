@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
- image: "/images/1.jpg"
+ image: "/images/3.jpg"
 ---
 
 I'm a junior in college with interests in Machine Learning, Data analysis and Visulizations.
