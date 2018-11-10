@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /projects/
+permalink: /side-projects/
 title: "Projects"
 author_profile: true
 header:
