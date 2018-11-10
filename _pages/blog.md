@@ -1,11 +1,12 @@
 ---
+title: "Blog"
 layout: archive
 permalink: /blog/
-title: Blog
 author_profile: true
-header: 
+header:
  image: "/images/comp.jpg"
 ---
+
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
