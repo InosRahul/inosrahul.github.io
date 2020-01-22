@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:rahulsoni2225@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/rahulsoni04/"
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/inosrahul"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/notinosrahul"
+      #url: "https://instagram.com/notinosrahul"
 
 # Site Footer
 footer:
